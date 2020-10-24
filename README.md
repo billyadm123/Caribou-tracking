@@ -1,1 +1,3 @@
-# Caribou-tracking
+This project analyzes a dataset of 260 caribou attributes and tracking locations over 28 years. This could be useful when trying to determine breeding grounds, when females give birth and if there is a higher number of predators are around during certain times when the caribou are present. This information can help officials establish protected areas, warn locals when higher numbers of predators are around, help environmental engineers develop predator-prey models and help decide where to reintroduce rehabilitated animals into the wild to give them the best chance of survival.
+
+Predator-prey models can be used when introducing a species in a certain environment to prevent everything from becoming unbalanced. 
